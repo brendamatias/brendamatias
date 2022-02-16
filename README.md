@@ -6,11 +6,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamatias&layout=compact&langs_count=7&theme=radical" />
 </div>   
 
-<h3> :rocket: &nbsp;My Skills </h3>
-
 ## Hey you! 👋
 
 My name is Brenda, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks.
+
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Skills**
 
