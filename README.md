@@ -1,4 +1,4 @@
-<h2 align="center">I'm Brenda S. Matias! 😊</h2>
+<h2 align="center">I'm Brenda S. Matias! 👻</h2>
 
 <div align="center">
   <a href="https://github.com/brendamatias">
