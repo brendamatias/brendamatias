@@ -1,52 +1,34 @@
-<h2 align="center">I'm Brenda S. Matias! 👻</h2>
+### Experiência de trabalho
 
-<div align="center">
-  <a href="https://github.com/brendamatias">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendamatias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamatias&layout=compact&langs_count=7&theme=radical" />
-</div>   
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-## Hey you! 👋
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQE5QBG-mhja9g/company-logo_200_200/0/1630637271377/thoughtworks_logo?e=1730937600&v=beta&t=SINu8j7nRawE9GJBItnbDKK9EsMg47tfQCH3zT-zZG4"/>](https://www.thoughtworks.com/pt-br)
 
-My name is Brenda, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks.
+**Front-end Developer** \
+[**Thoughtworks**](https://www.thoughtworks.com/pt-br) • Full-time \
+Linguagens & Tecnologias: `ReactJS`, `Javascript`, `Typescript`, `API REST`, `GraphQL`, `Storybook`<!-- \-->
+<!-- Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+<br/>
 
-<h3> :rocket: &nbsp;My Skills </h3>
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQEGllI9UxHWhA/company-logo_200_200/0/1680778497571/teddyopenfinance_logo?e=1730937600&v=beta&t=nq6vif8rH6clHQN3Y8q9rmmyJLnk9bxpVdcLNiflTLY"/>](https://teddydigital.io/)
 
-**Skills**
+**Front-End Developer** \
+[**Teddy Open Finance**](https://teddydigital.io/) • Contract \
+Linguagens & Tecnologias: `ReactJS`, `API Rest`, `Storybook`, `Typescript` \
+Projetos em destaque: [Consig360](https://teddy.consig360.com.br/)
+<br/>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Adonis](https://img.shields.io/badge/-Adonis-333333?style=flat&logo=adonisjs)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEhrvAi46q6Ow/company-logo_200_200/0/1680102815746/mesa_mobile_thinking_logo?e=1730937600&v=beta&t=Qu8UwYkwACSBa1veogqQgsm4HAbr57J4yktdsKsWMvQ"/>](https://www.mesainc.com.br/pt/home)
 
-**Tools**
+**Full Stack Developer** \
+[**Mesa Mobile Thinking**](https://www.mesainc.com.br/pt/home) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `AdonisJS`, `PostgreSQL`, `VueJS`, `GitLab`, `Scrum`<!-- \-->
+<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
+<br/>
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<br/>
 
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<h3> :earth_americas: &nbsp;How to find me: </h3> 
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/brenda-matias/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 [![Linkedin: Brenda Matias](https://img.shields.io/badge/-brendamatias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-matias)](https://www.linkedin.com/in/brenda-matias)
 [![Gmail Badge](https://img.shields.io/badge/-brendamatias.sobral@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendamatias.sobral@gmail.com)](mailto:SEU-EMAIL)
